@@ -1,0 +1,54 @@
+:root {
+    --main-bg-color: rgb(23, 21, 21);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--main-bg-color);
+    font: normal 15pt Arial;
+}
+
+.arrow {
+    border: solid white;
+    border-width: 0 15px 15px 0;
+    display: inline-block;
+    padding: 30px;
+    background-color: var(--main-bg-color);
+}
+  
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+h1{
+    color: white;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    height: 500px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+header{
+    padding-bottom: 10px;
+}
+
+img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+  }
+
+div#center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
