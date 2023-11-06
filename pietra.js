@@ -2,7 +2,7 @@ let mensagens = [
     'Quem é essa gatinha na minha uatizapi? 🥵',
     'Nosso primeiro Rolezinho juntos🏳️',
     'O início de uma grande jornada 😎',
-    'Primeira vez dormingo em casa (e com o nilo)😾',
+    'Primeira vez dormindo em casa (e com o nilo)😾',
     'Toda naipe de artista 🎨',
     'Pique de jogador 🏌️‍♀️',
     'Elegante na conduta 💃',
